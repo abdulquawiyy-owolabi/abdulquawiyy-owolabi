@@ -15,6 +15,17 @@
 - 🌲 **[EcoTrack Sentinel](LINK-TO-REPO)**: forest carbon monitoring dashboard (GEE, LandTrendr, GEDI, FastAPI, React)
 - 🧩 **QGIS plugin** that automates farm design for hillside orchards
 
+### Featured project: satellite crop-stress detection, SW Nigeria
+
+Can satellites and climate data flag emerging crop stress early enough to prioritise field monitoring? I built a reproducible Earth Engine and Python pipeline for Oyo, Osun and northern Ogun: a 25-year MODIS stress proxy, rainfall, soil-moisture, heat and Sentinel-1 radar predictors, XGBoost models, and validation across years and space.
+
+The best model beats persistence in the same-window nowcast (+0.24 PR-AUC lift, 95% CI +0.14 to +0.37, in 9 of 10 test years), with no demonstrated skill beyond about 16 days. Results are proxy-validated, not yield forecasts.
+
+**Stack:** Google Earth Engine · Python · XGBoost · SHAP · Sentinel-1 · Leaflet
+
+[Live map](https://abdulquawiyy-owolabi.github.io/sw-nigeria-crop-stress/) · [Code and report](https://github.com/abdulquawiyy-owolabi/sw-nigeria-crop-stress)
+
+
 ## 🌱 Currently learning
 Deep learning for Earth observation with PyTorch and TorchGeo.
 
