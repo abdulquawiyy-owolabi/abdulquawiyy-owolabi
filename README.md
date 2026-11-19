@@ -1,34 +1,42 @@
-<h1 align="center">Hi, I'm Abdulquawiyy 👋</h1>
+<h1 align="center">Abdulquawiyy · GIS & Remote Sensing Freelancer</h1>
 <p align="center">
-  <b>Geospatial Data Scientist · Remote Sensing · GeoAI</b><br>
-  Turning satellite imagery into decisions | Osogbo, Nigeria 🇳🇬
+  I turn satellite, SAR and drone data into maps, models and tools you can use.<br>
+  Osogbo, Nigeria 🇳🇬 · Working with clients worldwide 🌍
 </p>
 
 <p align="center">
+  <a href="UPWORK-PROFILE-LINK"><img src="https://img.shields.io/badge/Hire%20me-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"></a>
+  <a href="FIVERR-PROFILE-LINK"><img src="https://img.shields.io/badge/Gigs-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
   <a href="https://abdulquawiyy-owolabi.github.io"><img src="https://img.shields.io/badge/Portfolio-visit-0A66C2?style=for-the-badge"></a>
-  <a href="https://twitter.com/huygradi"><img src="https://img.shields.io/badge/Twitter-@huygradi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-## 🔭 What I've been working on lately
+## 🧰 What I can do for you
 
-- 🌾 **Crop-stress & drought early warning** for SW Nigeria (Ogun, Oyo, Osun), built on Sentinel-1 features and MODIS labels
-- 🌲 **[EcoTrack Sentinel](LINK-TO-REPO)**: forest carbon monitoring dashboard (GEE, LandTrendr, GEDI, FastAPI, React)
-- 🧩 **QGIS plugin** that automates farm design for hillside orchards
+| | |
+|---|---|
+| 🛰️ **Remote sensing** | Sentinel-1 SAR & optical analysis, change detection, land cover, crop and drought monitoring |
+| 🤖 **GeoAI / ML** | Classification and susceptibility models (PyTorch, scikit-learn) with explainable AI |
+| 🧩 **QGIS & PyQGIS automation** | Custom plugins and Processing tools that replace hours of manual work |
+| 🌐 **Web maps & dashboards** | Leaflet, MapLibre, FastAPI + React on PostGIS |
+| 🌾 **Agri & environmental mapping** | Farm design, crop planning, forest carbon monitoring |
 
-## 🌱 Currently learning
-Deep learning for Earth observation with PyTorch and TorchGeo.
+## 🔭 Recent work
+
+- 🌾 **Crop-stress & drought early warning** across Ogun, Oyo and Osun (Sentinel-1 features, MODIS labels)
+- 🌲 **[EcoTrack Sentinel](LINK-TO-REPO)**: forest carbon dashboard (GEE, LandTrendr, GEDI, FastAPI, React)
+- 🧩 **QGIS plugin** automating farm design for hillside orchards
+- 🏘️ **QGIS Processing tool** for parcel matching and building counts, from a PyQGIS script
+- 🛢️ **Published research:** oil spill susceptibility mapping with ML + XAI, Niger Delta (under review)
 
 ## 🛠️ Toolbox
 ![QGIS](https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?logo=postgresql&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Earth%20Engine-4285F4?logo=googleearth&logoColor=white)
+![Earth Engine](https://img.shields.io/badge/Earth%20Engine-4285F4?logo=googleearth&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)
-![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?logo=maplibre&logoColor=white)
 
-Also: ArcGIS Pro, SNAP (SAR), GeoPandas, Rasterio, GDAL.
+Also: ArcGIS Pro, SNAP, GeoPandas, Rasterio, GDAL, MapLibre.
 
-## 📫 Let's talk
-Open to freelance GIS/RS work and collaborations. Reach me on [Twitter](https://twitter.com/huygradi) or via my [portfolio](https://abdulquawiyy-owolabi.github.io).
+## 📫 Got a project?
+Send me a short brief and your data type on **Upwork**, **Fiverr** or [Twitter](https://twitter.com/huygradi).
