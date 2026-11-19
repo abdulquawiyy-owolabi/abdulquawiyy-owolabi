@@ -14,8 +14,6 @@
 - 🌾 **Crop-stress & drought early warning** for SW Nigeria (Ogun, Oyo, Osun), built on Sentinel-1 features and MODIS labels
 - 🌲 **[EcoTrack Sentinel](LINK-TO-REPO)**: forest carbon monitoring dashboard (GEE, LandTrendr, GEDI, FastAPI, React)
 - 🧩 **QGIS plugin** that automates farm design for hillside orchards
-- 🛢️ **Research:** co-author, *Oil Spill Susceptibility Mapping with ML + XAI in the Niger Delta* (under review)
-- 🗺️ **Community:** leading and training mappers with YouthMappers & OSM Nigeria
 
 ## 🌱 Currently learning
 Deep learning for Earth observation with PyTorch and TorchGeo.
