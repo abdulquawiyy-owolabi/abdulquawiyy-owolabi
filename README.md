@@ -31,4 +31,4 @@ Deep learning for Earth observation with PyTorch and TorchGeo.
 Also: ArcGIS Pro, SNAP (SAR), GeoPandas, Rasterio, GDAL.
 
 ## 📫 Let's talk
-Open to freelance GIS/RS work and collaborations. Reach me on [Twitter](https://twitter.com/huygradi) or via my [portfolio](https://abdulquawiyy-owolabi.github.io).
+Open to freelance GIS/RS work and collaborations. Reach me on [Upwork](https://www.upwork.com/freelancers/~01652eb0b120e93637?mp_source=share) or via my [portfolio](https://abdulquawiyy-owolabi.github.io).
